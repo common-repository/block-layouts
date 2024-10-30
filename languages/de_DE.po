@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Poedit 2.2.1\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: plugins/01-content-templates-sidebar/index.js:153
+msgid "Template selected"
+msgstr "Template ausgewählt"
+
+#: plugins/01-content-templates-sidebar/index.js:177
+msgid "No Layouts Found"
+msgstr "Keine Layouts gefunden"
+
+#: plugins/01-content-templates-sidebar/index.js:178
+msgid "You don't have any Layouts"
+msgstr "Es existsieren keine Layouts"
+
+#: plugins/01-content-templates-sidebar/index.js:179
+msgid "Please create a new Template first."
+msgstr "Bitte erstelle zuerst ein neues Template."
+
+#: plugins/01-content-templates-sidebar/index.js:198
+msgid "Block Layouts"
+msgstr "Block Layouts"
+
+#: plugins/01-content-templates-sidebar/index.js:200
+msgid "Select a Template"
+msgstr "Select a Template"
+
+#: plugins/01-content-templates-sidebar/index.js:262
+msgid "Start with an empty page"
+msgstr "Starte mit einer leeren Seite"
